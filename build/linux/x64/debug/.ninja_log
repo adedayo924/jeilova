@@ -1,0 +1,54 @@
+# ninja log v5
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/libflutter_linux_gtk.so	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_value.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_view.h	3544f9b52789e931
+0	39738	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3544f9b52789e931
+0	39738	0	flutter/_phony_	3544f9b52789e931
+39752	44326	1685292466872552616	CMakeFiles/jeilova.dir/flutter/generated_plugin_registrant.cc.o	bc96ba0a32065475
+39750	44729	1685292467268566895	CMakeFiles/jeilova.dir/main.cc.o	48d785de6d638f5a
+39751	44765	1685292467304568192	CMakeFiles/jeilova.dir/my_application.cc.o	6294f83c4cdabfbd
+44765	46399	1685292468948627359	intermediates_do_not_run/jeilova	880c17b1d59c136a
+46399	48123	0	CMakeFiles/install.util	456f5f5d69866a22
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/libflutter_linux_gtk.so	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_value.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/fl_view.h	3544f9b52789e931
+4	13565	0	/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3544f9b52789e931
+4	13565	0	flutter/_phony_	3544f9b52789e931
+13567	15443	1685309750149821718	CMakeFiles/jeilova.dir/flutter/generated_plugin_registrant.cc.o	bc96ba0a32065475
+13566	15495	1685309750201822316	CMakeFiles/jeilova.dir/my_application.cc.o	6294f83c4cdabfbd
+15495	15926	1685309750637827335	intermediates_do_not_run/jeilova	bc6a46ae57452933
+15926	16121	0	CMakeFiles/install.util	456f5f5d69866a22
