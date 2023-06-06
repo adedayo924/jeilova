@@ -1,6 +1,8 @@
 # jeilova
 
-A new Flutter project.
+A cross platform virtual assistant application built on flutter with open AI
+
+<h1 align="center"><img src="./jeilovaui.png" width="424px" height="683px"></h1>
 
 ## Getting Started
 
