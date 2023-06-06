@@ -37,14 +37,14 @@ class FeatureBox extends StatelessWidget {
                 headerText,
                 style: const TextStyle(
                   fontFamily: 'Cera',
-                  fontSize: 14,
+                  fontSize: 18,
                   color: Pallete.blackColor,
                   fontWeight: FontWeight.bold,
                 ),
               ),
             ),
             const SizedBox(
-              height: 3,
+              height: 5,
             ),
             Padding(
               padding: const EdgeInsets.only(right: 10),
@@ -54,7 +54,7 @@ class FeatureBox extends StatelessWidget {
                   descriptionText,
                   style: const TextStyle(
                     fontFamily: 'Cera',
-                    fontSize: 12,
+                    fontSize: 14,
                     color: Pallete.blackColor,
                   ),
                 ),

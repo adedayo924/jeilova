@@ -11,6 +11,7 @@
 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/linux/x64/debug/bundle/data/flutter_assets/assets/sounds/speech_to_text_listening.m4r
 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/Cera-Pro-Medium.otf
 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/Cera-Pro-Bold.otf
+/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
