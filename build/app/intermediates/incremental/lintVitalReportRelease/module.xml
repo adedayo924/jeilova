@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android/app"
+    dir="/home/jeilo/Desktop/jeilova/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.3.0"
-    buildFolder="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app"
+    buildFolder="/home/jeilo/Desktop/jeilova/build/app"
     bootClassPath="/home/jeilo/Android/Sdk/platforms/android-33/android.jar:/home/jeilo/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-33">

@@ -4,7 +4,7 @@
             "outputFile": "com.example.jeilova.app-mergeReleaseResources-11:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/jeilo/Desktop/jeilova/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

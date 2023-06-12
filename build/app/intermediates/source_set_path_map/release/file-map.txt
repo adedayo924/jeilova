@@ -4,13 +4,13 @@ com.example.jeilova.app-jetified-annotation-experimental-1.1.0-2 /home/jeilo/.gr
 com.example.jeilova.app-jetified-core-ktx-1.8.0-3 /home/jeilo/.gradle/caches/transforms-3/8ae9843b381467f93b6a13b4c93092af/transformed/jetified-core-ktx-1.8.0/res
 com.example.jeilova.app-lifecycle-runtime-2.3.1-4 /home/jeilo/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res
 com.example.jeilova.app-jetified-window-java-1.0.0-beta04-5 /home/jeilo/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
-com.example.jeilova.app-main-6 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android/app/src/main/res
-com.example.jeilova.app-release-7 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android/app/src/release/res
-com.example.jeilova.app-pngs-8 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/generated/res/pngs/release
-com.example.jeilova.app-resValues-9 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/generated/res/resValues/release
-com.example.jeilova.app-rs-10 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/generated/res/rs/release
-com.example.jeilova.app-mergeReleaseResources-11 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.example.jeilova.app-mergeReleaseResources-12 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.example.jeilova.app-merged_res-13 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/intermediates/merged_res/release
-com.example.jeilova.app-packaged_res-14 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/intermediates/packaged_res/release
-com.example.jeilova.app-packaged_res-15 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/speech_to_text/intermediates/packaged_res/release
+com.example.jeilova.app-main-6 /home/jeilo/Desktop/jeilova/android/app/src/main/res
+com.example.jeilova.app-release-7 /home/jeilo/Desktop/jeilova/android/app/src/release/res
+com.example.jeilova.app-pngs-8 /home/jeilo/Desktop/jeilova/build/app/generated/res/pngs/release
+com.example.jeilova.app-resValues-9 /home/jeilo/Desktop/jeilova/build/app/generated/res/resValues/release
+com.example.jeilova.app-rs-10 /home/jeilo/Desktop/jeilova/build/app/generated/res/rs/release
+com.example.jeilova.app-mergeReleaseResources-11 /home/jeilo/Desktop/jeilova/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.jeilova.app-mergeReleaseResources-12 /home/jeilo/Desktop/jeilova/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.jeilova.app-merged_res-13 /home/jeilo/Desktop/jeilova/build/app/intermediates/merged_res/release
+com.example.jeilova.app-packaged_res-14 /home/jeilo/Desktop/jeilova/build/flutter_tts/intermediates/packaged_res/release
+com.example.jeilova.app-packaged_res-15 /home/jeilo/Desktop/jeilova/build/speech_to_text/intermediates/packaged_res/release

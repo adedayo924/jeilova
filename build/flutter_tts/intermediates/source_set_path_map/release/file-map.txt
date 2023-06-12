@@ -6,9 +6,9 @@ com.tundralabs.fluttertts.flutter_tts-lifecycle-runtime-2.3.1-4 /home/jeilo/.gra
 com.tundralabs.fluttertts.flutter_tts-jetified-window-java-1.0.0-beta04-5 /home/jeilo/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
 com.tundralabs.fluttertts.flutter_tts-main-6 /home/jeilo/.pub-cache/hosted/pub.dev/flutter_tts-3.7.0/android/src/main/res
 com.tundralabs.fluttertts.flutter_tts-release-7 /home/jeilo/.pub-cache/hosted/pub.dev/flutter_tts-3.7.0/android/src/release/res
-com.tundralabs.fluttertts.flutter_tts-pngs-8 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/generated/res/pngs/release
-com.tundralabs.fluttertts.flutter_tts-resValues-9 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/generated/res/resValues/release
-com.tundralabs.fluttertts.flutter_tts-rs-10 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/generated/res/rs/release
-com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-11 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-12 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.tundralabs.fluttertts.flutter_tts-merged_res-13 /home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/intermediates/merged_res/release
+com.tundralabs.fluttertts.flutter_tts-pngs-8 /home/jeilo/Desktop/jeilova/build/flutter_tts/generated/res/pngs/release
+com.tundralabs.fluttertts.flutter_tts-resValues-9 /home/jeilo/Desktop/jeilova/build/flutter_tts/generated/res/resValues/release
+com.tundralabs.fluttertts.flutter_tts-rs-10 /home/jeilo/Desktop/jeilova/build/flutter_tts/generated/res/rs/release
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-11 /home/jeilo/Desktop/jeilova/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-12 /home/jeilo/Desktop/jeilova/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tundralabs.fluttertts.flutter_tts-merged_res-13 /home/jeilo/Desktop/jeilova/build/flutter_tts/intermediates/merged_res/release

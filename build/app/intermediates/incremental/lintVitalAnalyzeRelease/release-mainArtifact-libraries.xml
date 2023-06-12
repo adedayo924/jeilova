@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/home/jeilo/Desktop/jeilova/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/home/jeilo/Desktop/jeilova/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/home/jeilo/Desktop/jeilova/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android@@:speech_to_text::release"
-      jars="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/speech_to_text/.transforms/4b68070153956063d87f2f3df0a4cc0a/transformed/out/jars/classes.jar:/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/speech_to_text/.transforms/4b68070153956063d87f2f3df0a4cc0a/transformed/out/jars/libs/R.jar"
+      name="/home/jeilo/Desktop/jeilova/android@@:speech_to_text::release"
+      jars="/home/jeilo/Desktop/jeilova/build/speech_to_text/.transforms/b33f0ece7462ce8073a7b28d3567cef9/transformed/out/jars/classes.jar:/home/jeilo/Desktop/jeilova/build/speech_to_text/.transforms/b33f0ece7462ce8073a7b28d3567cef9/transformed/out/jars/libs/R.jar"
       resolved="com.csdcorp.speech_to_text:speech_to_text:unspecified"
-      folder="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/speech_to_text/.transforms/4b68070153956063d87f2f3df0a4cc0a/transformed/out"
+      folder="/home/jeilo/Desktop/jeilova/build/speech_to_text/.transforms/b33f0ece7462ce8073a7b28d3567cef9/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android@@:flutter_tts::release"
-      jars="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/.transforms/6e3eccc7ec5521f1212eda544c3d2bbf/transformed/out/jars/classes.jar:/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/.transforms/6e3eccc7ec5521f1212eda544c3d2bbf/transformed/out/jars/libs/R.jar"
+      name="/home/jeilo/Desktop/jeilova/android@@:flutter_tts::release"
+      jars="/home/jeilo/Desktop/jeilova/build/flutter_tts/.transforms/b335f0a874fad597f592ddc4ead4b212/transformed/out/jars/classes.jar:/home/jeilo/Desktop/jeilova/build/flutter_tts/.transforms/b335f0a874fad597f592ddc4ead4b212/transformed/out/jars/libs/R.jar"
       resolved="com.tundralabs.fluttertts:flutter_tts:unspecified"
-      folder="/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/build/flutter_tts/.transforms/6e3eccc7ec5521f1212eda544c3d2bbf/transformed/out"
+      folder="/home/jeilo/Desktop/jeilova/build/flutter_tts/.transforms/b335f0a874fad597f592ddc4ead4b212/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

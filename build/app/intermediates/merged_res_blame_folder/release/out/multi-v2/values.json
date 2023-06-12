@@ -4,25 +4,6 @@
             "outputFile": "com.example.jeilova.app-mergeReleaseResources-11:/values/values.xml",
             "map": [
                 {
-                    "source": "/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "95,99",
-                        "startColumns": "4,4",
-                        "startOffsets": "5562,5743",
-                        "endLines": "98,101",
-                        "endColumns": "12,12",
-                        "endOffsets": "5738,5907"
-                    }
-                },
-                {
                     "source": "/home/jeilo/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -40,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/jeilo/StudioProjects/Jeilo_Voice Assistant/jeilova/android/app/src/main/res/values/ic_launcher_background.xml",
+                    "source": "/home/jeilo/Desktop/jeilova/android/app/src/main/res/values/ic_launcher_background.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -54,6 +35,25 @@
                         "startOffsets": "611",
                         "endColumns": "56",
                         "endOffsets": "663"
+                    }
+                },
+                {
+                    "source": "/home/jeilo/Desktop/jeilova/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "95,99",
+                        "startColumns": "4,4",
+                        "startOffsets": "5562,5743",
+                        "endLines": "98,101",
+                        "endColumns": "12,12",
+                        "endOffsets": "5738,5907"
                     }
                 },
                 {
