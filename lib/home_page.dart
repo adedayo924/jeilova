@@ -1,3 +1,4 @@
+//Importing all dart packages used in the app build up.
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
@@ -8,6 +9,7 @@ import 'package:speech_to_text/speech_to_text.dart';
 
 import 'pallete.dart';
 
+// This is the stateful widget that define changes functionalities in the app.  
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
@@ -25,6 +27,7 @@ class _HomePageState extends State<HomePage> {
   int start = 200;
   int delay = 200;
 
+  // initializations of different widget.
   @override
   void initState() {
     super.initState();
