@@ -1,6 +1,8 @@
+//Imported dart packages
 import 'package:flutter/material.dart';
 import 'package:jeilova/pallete.dart';
 
+// This is the featurebox class created to be imported into the homepage for reusable purpose. 
 class FeatureBox extends StatelessWidget {
   final Color color;
   final String headerText;
