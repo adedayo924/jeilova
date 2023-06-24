@@ -1,3 +1,4 @@
+// Importing dart packages to define the workflow of AI services for response and calls to the OPEN AI API
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
