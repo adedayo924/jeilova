@@ -1,3 +1,4 @@
+// Importing all dart packages used in the app.
 import 'package:flutter/material.dart';
 import 'home_page.dart';
 import 'pallete.dart';
