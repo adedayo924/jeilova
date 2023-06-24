@@ -1,5 +1,7 @@
+// Importing dart packages to define my app color theme
 import 'package:flutter/material.dart';
 
+// Color theme configurations for the app
 class Pallete {
   static const Color mainFontColor = Color.fromRGBO(19, 95, 25, 1);
   static const Color firstSuggestionBoxColor = Color.fromRGBO(183, 244, 165, 1);
